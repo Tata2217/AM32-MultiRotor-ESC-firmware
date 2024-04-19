@@ -291,7 +291,7 @@
 #endif
 
 #ifdef  RHINO80A_F051
-#define FILE_NAME				"RHINO80A_F051"
+#define FILE_NAME				"RHINO80_F051"
 #define FIRMWARE_NAME           "GEARBRO_80A_ESC "
 #define DEAD_TIME               20
 #define MILLIVOLT_PER_AMP       34
